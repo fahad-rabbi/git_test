@@ -1,0 +1,3 @@
+This is some text
+that I was told to add to hello_world.text
+Let's commit it afterwards.
